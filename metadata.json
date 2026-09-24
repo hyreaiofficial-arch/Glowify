@@ -1,0 +1,6 @@
+{
+  "name": "Glowify – Human Longevity Research & Platform",
+  "description": "Measure aging. Slow it. Preserve what makes you, you. Investor brief and research roadmap for Glowify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
